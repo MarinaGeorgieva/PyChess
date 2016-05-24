@@ -1,2 +1,4 @@
 # PyChess
-Repository for the course project for the Python course in FMI
+Course project for the Python course in FMI
+
+PyChess is a simple chess game between two players.
